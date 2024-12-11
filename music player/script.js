@@ -29,20 +29,20 @@ const music_list = [
     },
     {
         img : 'Amaran.jpg',
-        name : 'Falling Down',
-        artist : 'Wid Cards',
+        name : 'Vennilavu Saaral ',
+        artist : 'Kapil Kapilan',
         music : 'Amaran.mp3'
     },
     {
         img : 'hello.jpg',
-        name : 'Faded',
-        artist : 'Alan Walker',
+        name : 'Anaganaga Oka Uru',
+        artist : 'Sri Dhruthi',
         music : 'hello.mp3'
     },
     {
         img : 'image4.jpg',
-        name : 'Rather Be',
-        artist : 'Clean Bandit',
+        name : 'Janaka Ayithe Ganaka',
+        artist : 'Adithya RK',
         music : 'song4.mp3'
     }
     
